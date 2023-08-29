@@ -14,8 +14,8 @@ This full-stack MERN application brings the power of video recording and screen 
 
 ## Getting Started
 
-1. Clone the repository to your local machine: `git clone https://github.com/yourusername/mern-video-recorder.git`
-2. Navigate to the project directory: `cd mern-video-recorder`
+1. Clone the repository to your local machine: `git clone https://github.com/abhijeetvinkare/RecorderX.git`
+2. Navigate to the project directory: `cd RecorderX`
 3. Install server dependencies: `cd server && npm install`
 4. Start the server: `npm start`
 5. Install client dependencies: `cd client && npm install`
