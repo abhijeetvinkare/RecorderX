@@ -1,0 +1,50 @@
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 1.3rem;
+  width: 380px;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.form-title {
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-weight: 800;
+  text-align: center;
+  color: #000;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.input-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signup-link {
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 425px) {
+  .form {
+    width: 100%;
+    max-width: 380px;
+  }
+}

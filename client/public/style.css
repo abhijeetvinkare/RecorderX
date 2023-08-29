@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  #root {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  body {
+    background: linear-gradient(90deg, hsla(298, 68%, 90%, 1) 0%,hsla(30, 82%, 91%, 1) 100%);
+    font-family: "Montserrat", sans-serif;
+  }
